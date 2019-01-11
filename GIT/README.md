@@ -1,8 +1,10 @@
-## GIT client
+## GIT
+
+### Git client
 
 ![Fork Logo](/img/fork-logo.png)
 
-https://git-fork.com/
+Preferred Git client : https://git-fork.com/ (Free | Mac & Windows)
 
 ### Connecting to a remote (GitHub) repo via SSH
 
