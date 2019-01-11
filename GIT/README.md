@@ -14,15 +14,15 @@ Right-click Remotes and choose 'Add new remote'
 
 ##### Repository url : https vs SSH
 
-**HTTPS
+**HTTPS**
 
 With https you need to enter credentials every time you push code your to the remote.  SSH is the preffered way.
 
-**SSH
+**SSH**
 
 Before using SSH, you need to have a SSH key generated on your computer before adding it to Github to connect to your remote repositories.
 
-*Add SSH key on your computer to connect remotely with SSH.
+*Add SSH key on your computer to connect remotely with SSH.*
 
 - Check for existing SSH : https://help.github.com/articles/checking-for-existing-ssh-keys/ 
 
