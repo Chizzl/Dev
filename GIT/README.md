@@ -12,7 +12,7 @@ Preferred Git client : https://git-fork.com/ (Free | Mac & Windows)
 
 Right-click Remotes and choose 'Add new remote'
 
-#### Repository url : https vs SSH
+##### Repository url : https vs SSH
 
 ** HTTPS **
 
@@ -20,14 +20,16 @@ With https you need to enter credentials every time you push code your to the re
 
 ** SSH **
 
-Add SSH key on your computer to connect remotely with SSH.  (With https you need to enter credentials every time you push code)
+Before using SSH, you need to have a SSH key generated on your computer before adding it to Github to connect to your remote repositories.
 
-Check for existing SSH or create new : https://help.github.com/articles/checking-for-existing-ssh-keys/ 
+** Add SSH key on your computer to connect remotely with SSH. **
 
-If you don't have a SSH key yet, create new SSH key : https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+- Check for existing SSH : https://help.github.com/articles/checking-for-existing-ssh-keys/ 
 
-Add the key to github : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/ (copy from \[path\]/.ssh/id_rsa.pub)
+- If you don't have a SSH key yet, create new SSH key : https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
+- Add the key to GitHub : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/ (copy from \[path\]/.ssh/id_rsa.pub)
 
+--
 
 Ref : [Git for beginners](https://www.youtube.com/playlist?list=PLht38HefjmzGpNHWKlTLQAbPlwFRFd-2z)
