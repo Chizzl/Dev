@@ -1,5 +1,7 @@
 ## GIT client
 
+![Fork Logo](/img/fork-logo.png)
+
 https://git-fork.com/
 
 ### Connecting to a remote (GitHub) repo via SSH
