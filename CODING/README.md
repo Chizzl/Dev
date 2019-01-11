@@ -4,8 +4,8 @@
 
 ### Code Editor Download
 
-Preferred code editor : [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}
+Preferred code editor : <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
 
 ### VS Code setup guidance
 
-[Visual Studio Code setup series](https://www.youtube.com/watch?v=xzAOWzG7A7c&list=PLht38HefjmzGWN0CUHGqjliTSuhXFTDG5){:target="_blank"}
+<a href="https://www.youtube.com/watch?v=xzAOWzG7A7c&list=PLht38HefjmzGWN0CUHGqjliTSuhXFTDG5" target="_blank">Visual Studio Code setup series</a>
