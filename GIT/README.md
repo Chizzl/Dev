@@ -2,7 +2,7 @@
 
 https://git-fork.com/
 
-### Connecting to a remore repo via SSH
+### Connecting to a remote (GitHub) repo via SSH
 
 Add SSH key on your computer to connect remotely with SSH.  (With https you need to enter credentials every time you push code)
 
