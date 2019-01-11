@@ -13,3 +13,7 @@ Check for existing SSH or create new : https://help.github.com/articles/checking
 If you don't have a SSH key yet, create new SSH key : https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
 Add the key to github : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/ (copy from \[path\]/.ssh/id_rsa.pub)
+
+
+
+Ref : [Git for beginners](https://www.youtube.com/playlist?list=PLht38HefjmzGpNHWKlTLQAbPlwFRFd-2z)
