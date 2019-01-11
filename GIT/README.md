@@ -30,6 +30,6 @@ Before using SSH, you need to have a SSH key generated on your computer before a
 
 - Add the key to GitHub : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/ (copy from \[path\]/.ssh/id_rsa.pub)
 
---
+---
 
 Ref : [Git for beginners](https://www.youtube.com/playlist?list=PLht38HefjmzGpNHWKlTLQAbPlwFRFd-2z)
