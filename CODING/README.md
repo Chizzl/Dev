@@ -13,4 +13,4 @@ VS Code setup guidance | <a href="https://www.youtube.com/watch?v=xzAOWzG7A7c&li
 
 A bunch of javascript example code...
 
-[View Samples](/js-samples/)
+[View Samples](js-samples/)
