@@ -1,1 +1,1 @@
-[Back to the samples](../js-samples/)
+[Back to the samples](../)
