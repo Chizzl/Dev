@@ -1,1 +1,1 @@
-[Back to the samples](../)
+< [Back to the samples](../)
