@@ -11,8 +11,6 @@ VS Code setup guidance | <a href="https://www.youtube.com/watch?v=xzAOWzG7A7c&li
 
 ### Javascript Samples 
 
-#### Off Canvas Menu
+A bunch of javascript example code...
 
-An off-canvas menu is a menu that is placed outside the screen (or the canvas), and slides in (or out) when the menu button is clicked.
-
-[View code](off-canvas-menu/)
+[View Samples](/js-samples/)
