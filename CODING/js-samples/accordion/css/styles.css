@@ -102,6 +102,20 @@ svg {
   padding-left: 3em;
 }
 
+.accordion.is-open .accordion__content{
+  display: grid;
+}
+
+.accordion.is-open .indicator__plus
+{
+  display: none;  
+}
+
+.accordion.is-open .indicator__minus
+{
+  display: block;
+}
+
 @media screen and (min-width: 700px) {
   .accordion__content {
     grid-template-columns: 7.5em 1fr;
